@@ -1,0 +1,1 @@
+cls&&python3 changement_de_bases_de_numeration.py
